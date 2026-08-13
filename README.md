@@ -5,7 +5,7 @@ Astro starter for agency and business sites — demo pages, a Decap CMS blog, SE
 ## Quick Start
 
 ```bash
-git clone https://github.com/CristianM100/Astro-Starter.git
+git clone https://github.com/websitero-org/Astro-Starter
 cd Astro-Starter
 npm install
 npm run dev
